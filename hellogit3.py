@@ -1,1 +1,1 @@
-print ("Samoa")
+print ("Samoa samoa")
